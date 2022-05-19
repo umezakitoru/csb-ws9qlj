@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://umezakitoru.github.io/csb-ws9qlj/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://umezakitoru.github.io/csb-ws9qlj/static/js/main.d727ce46.chunk.js",
+    "main.js.map": "https://umezakitoru.github.io/csb-ws9qlj/static/js/main.d727ce46.chunk.js.map",
+    "runtime-main.js": "https://umezakitoru.github.io/csb-ws9qlj/static/js/runtime-main.9f6e7857.js",
+    "runtime-main.js.map": "https://umezakitoru.github.io/csb-ws9qlj/static/js/runtime-main.9f6e7857.js.map",
+    "static/js/2.cc863786.chunk.js": "https://umezakitoru.github.io/csb-ws9qlj/static/js/2.cc863786.chunk.js",
+    "static/js/2.cc863786.chunk.js.map": "https://umezakitoru.github.io/csb-ws9qlj/static/js/2.cc863786.chunk.js.map",
+    "index.html": "https://umezakitoru.github.io/csb-ws9qlj/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://umezakitoru.github.io/csb-ws9qlj/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.cc863786.chunk.js.LICENSE.txt": "https://umezakitoru.github.io/csb-ws9qlj/static/js/2.cc863786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f6e7857.js",
+    "static/js/2.cc863786.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d727ce46.chunk.js"
+  ]
+}
